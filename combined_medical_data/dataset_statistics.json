@@ -1,0 +1,17 @@
+{
+    "total_records": 32335,
+    "mentalchat_records": 15977,
+    "medquad_records": 16358,
+    "question_length_mean": 315.56898098036186,
+    "question_length_std": 443.3329969204509,
+    "question_length_min": 12,
+    "question_length_max": 11722,
+    "answer_length_mean": 1679.2451832379775,
+    "answer_length_std": 1364.070136411757,
+    "answer_length_min": 25,
+    "answer_length_max": 29041,
+    "unique_questions": 30831,
+    "unique_answers": 31770,
+    "processing_timestamp": "2025-05-29T03:06:05.928685",
+    "regex_error_summary": {}
+}
